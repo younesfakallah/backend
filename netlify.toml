@@ -1,4 +1,0 @@
-[[redirect]]
-  from = "user.json"
-  to = "user"
-  force = true

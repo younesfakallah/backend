@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://63b2ba8fd802a6457d23b7e9--clinquant-twilight-e6a32a.netlify.app/"
+  to = "https://63b2ba8fd802a6457d23b7e9--clinquant-twilight-e6a32a.netlify.app/user.json"
+  status = 301
+  force = true

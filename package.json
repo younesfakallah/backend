@@ -1,0 +1,23 @@
+{
+  "name": "userapi",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "access to user api",
+  "main": "user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/younesfakallah/backend.git"
+  },
+  "author": "Younes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/younesfakallah/backend/issues"
+  },
+  "homepage": "https://github.com/younesfakallah/backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
